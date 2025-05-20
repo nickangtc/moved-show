@@ -36,6 +36,7 @@ const HomePage = () => {
           name="description"
           content="Real interviews with expats about why they moved abroad, how it's going, and what they've learned."
         />
+        <link rel="icon" href="/favicon.png" />
       </Helmet>
 
       <section style={{ textAlign: "center", padding: "2rem 1rem" }}>
